@@ -1,3 +1,2 @@
 in branch feature_2
-test stash
 test feature_3
